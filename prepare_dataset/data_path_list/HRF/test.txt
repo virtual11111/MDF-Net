@@ -1,0 +1,3 @@
+E:/VesselSeg-Pytorch-master/data/HRF/images/05_dr.JPG E:/VesselSeg-Pytorch-master/data/HRF/manual1/05_dr.tif E:/VesselSeg-Pytorch-master/data/HRF/mask/05_dr_mask.tif
+E:/VesselSeg-Pytorch-master/data/HRF/images/05_g.jpg E:/VesselSeg-Pytorch-master/data/HRF/manual1/05_g.tif E:/VesselSeg-Pytorch-master/data/HRF/mask/05_g_mask.tif
+E:/VesselSeg-Pytorch-master/data/HRF/images/05_h.jpg E:/VesselSeg-Pytorch-master/data/HRF/manual1/05_h.tif E:/VesselSeg-Pytorch-master/data/HRF/mask/05_h_mask.tif
