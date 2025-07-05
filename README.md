@@ -1,4 +1,4 @@
-## __VesselSeg-Pytorch__ : _Retinal vessel segmentation toolkit based on pytorch_
+## MDF-Net
 ### Introduction
 This project is a retinal blood vessel segmentation code based on python and pytorch framework, including data preprocessing, model training and testing, visualization, etc. 
 ### Requirements  
